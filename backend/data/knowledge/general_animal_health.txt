@@ -1,0 +1,196 @@
+ANIMAL HEALTH KNOWLEDGE BASE — GENERAL REFERENCE
+==================================================
+
+This document contains general educational information about common animal health observations. It is intended for informational purposes only and does not replace professional veterinary advice.
+
+
+REDUCED APPETITE / ANOREXIA
+----------------------------
+
+Reduced appetite in animals can indicate a wide range of conditions, from minor digestive discomfort to more serious illness.
+
+In cattle (cows and buffaloes):
+- Reduced feed intake lasting more than 24 hours should be monitored closely.
+- Common causes include digestive issues (rumen acidosis, bloat, indigestion), infectious diseases (foot-and-mouth disease, hemorrhagic septicemia), metabolic conditions (ketosis in dairy cows, milk fever), or environmental stress (heat stress, sudden feed changes).
+- Observe whether the animal is still drinking water, ruminating (chewing cud), and passing normal stool.
+- In dairy cattle, reduced appetite often correlates with decreased milk production.
+
+In goats:
+- Goats are browsers and may reduce feed intake due to parasitic infections (particularly haemonchosis), respiratory infections, or dental problems.
+- Internal parasites are one of the most common causes of appetite loss in goats.
+- Check for pale mucous membranes (FAMACHA scoring), bottle jaw (submandibular edema), and rough coat.
+
+In dogs:
+- Dogs may skip meals occasionally without concern, but persistent appetite loss (more than 24–48 hours) warrants attention.
+- Common causes include gastrointestinal issues, infections, dental disease, pain, or stress.
+- Observe for other symptoms such as vomiting, diarrhea, lethargy, or behavioral changes.
+
+In cats:
+- Cats that stop eating for more than 24 hours are at risk of hepatic lipidosis (fatty liver disease), especially overweight cats.
+- Appetite loss in cats should be taken seriously and evaluated promptly.
+- Common causes include upper respiratory infections, dental disease, kidney disease, or stress.
+
+In poultry:
+- Reduced feed consumption in flocks may indicate infectious diseases (Newcastle disease, avian influenza, coccidiosis), heat stress, water quality issues, or mycotoxin contamination in feed.
+- Monitor flock-level feed consumption and water intake together.
+
+
+FEVER / ABNORMAL BODY TEMPERATURE
+-----------------------------------
+
+Normal body temperatures vary by species:
+- Cattle: 38.0–39.5°C (100.4–103.1°F)
+- Buffalo: 37.5–39.0°C (99.5–102.2°F)
+- Goat: 38.5–40.0°C (101.3–104.0°F)
+- Dog: 38.0–39.2°C (100.4–102.5°F)
+- Cat: 38.0–39.2°C (100.4–102.5°F)
+- Poultry: 40.5–42.0°C (104.9–107.6°F)
+
+Fever indicates the body is fighting an infection or inflammation. Persistent fever (more than 24 hours) or very high fever requires veterinary attention.
+
+In cattle: Fever combined with nasal discharge, coughing, or reduced milk yield may suggest respiratory infection (bovine respiratory disease) or systemic illness.
+
+In dogs and cats: Fever with lethargy, vomiting, or diarrhea may suggest infection, tick-borne disease, or inflammatory conditions.
+
+
+DIARRHEA
+---------
+
+Diarrhea in animals leads to dehydration and electrolyte loss and can become life-threatening, especially in young animals.
+
+In calves:
+- Neonatal calf diarrhea (scours) is a leading cause of calf mortality.
+- Common causes include E. coli, rotavirus, coronavirus, cryptosporidium, and salmonella.
+- Dehydration assessment: skin tent test (skin on neck or eyelid — if skin stays tented for more than 2 seconds, moderate to severe dehydration is likely).
+- Oral rehydration therapy is critical for mild to moderate cases.
+
+In goats:
+- Diarrhea in goats may indicate coccidiosis (especially in kids), parasitic gastroenteritis, or enterotoxemia (overeating disease).
+- Young goats (kids) are especially vulnerable.
+
+In dogs:
+- Acute diarrhea may result from dietary indiscretion, infections, or parasites.
+- Bloody diarrhea (hemorrhagic gastroenteritis, parvovirus in unvaccinated puppies) requires urgent veterinary care.
+
+In cats:
+- Chronic diarrhea may indicate inflammatory bowel disease, food sensitivities, or parasites.
+- Acute onset with vomiting may suggest infection or toxin ingestion.
+
+In poultry:
+- Bloody droppings may indicate coccidiosis.
+- Watery or greenish droppings may indicate viral infections or salmonellosis.
+
+
+VOMITING / REGURGITATION
+--------------------------
+
+Vomiting is common in dogs and cats. Cattle and goats do not truly vomit (regurgitation during rumination is normal).
+
+In dogs:
+- Occasional vomiting may not be concerning, but repeated vomiting, vomiting blood, or vomiting with lethargy requires veterinary evaluation.
+- Common causes: dietary indiscretion, gastritis, foreign body ingestion, pancreatitis, or infections.
+
+In cats:
+- Frequent vomiting (more than once a week) is not normal and may indicate chronic kidney disease, hyperthyroidism, inflammatory bowel disease, or hairballs.
+- Vomiting with inability to eat or drink requires prompt attention.
+
+In ruminants (cattle, buffalo, goats):
+- True vomiting is rare and potentially serious. Regurgitation during rumination is normal.
+- If a ruminant appears to be vomiting, it may indicate severe bloat, poisoning, or obstruction.
+
+
+COUGHING / RESPIRATORY DIFFICULTY
+-----------------------------------
+
+Respiratory symptoms should be evaluated based on severity, duration, and accompanying signs.
+
+In cattle:
+- Bovine Respiratory Disease (BRD) is a leading cause of illness and death in feedlot cattle and calves.
+- Symptoms include coughing, nasal discharge, rapid breathing, fever, and depression.
+- Stress (transport, overcrowding, weather changes) increases susceptibility.
+
+In goats:
+- Pneumonia is common in goats, especially during cold or wet weather.
+- Caprine Arthritis Encephalitis (CAE) virus can cause chronic pneumonia in adult goats.
+
+In dogs:
+- Kennel cough (infectious tracheobronchitis) causes a dry, honking cough. Usually self-limiting but can be severe in puppies.
+- Persistent cough may indicate heart disease, pneumonia, or collapsing trachea.
+
+In cats:
+- Feline upper respiratory infection (URI) is common and presents with sneezing, nasal discharge, and sometimes coughing.
+- Asthma in cats presents with wheezing and labored breathing.
+
+In poultry:
+- Respiratory signs (gasping, sneezing, rattling) may indicate Newcastle disease, infectious bronchitis, avian influenza, or aspergillosis.
+- Respiratory disease in poultry can spread rapidly through flocks.
+
+
+DEHYDRATION
+------------
+
+Signs of dehydration across species:
+- Dry or tacky mucous membranes (gums, nose)
+- Sunken eyes
+- Reduced skin elasticity (skin tent test)
+- Decreased urination
+- Weakness and lethargy
+
+In cattle and buffalo: Skin tent test on the neck or upper eyelid. Tenting lasting more than 2 seconds suggests significant dehydration.
+
+In dogs and cats: Check gum moisture and capillary refill time (press gum, color should return within 2 seconds).
+
+Dehydration is dangerous in young animals and can escalate quickly. Oral or IV fluid therapy may be needed depending on severity.
+
+
+LETHARGY / REDUCED ACTIVITY
+------------------------------
+
+Lethargy is a non-specific but important symptom. An animal that is less active, unresponsive, or reluctant to move may be experiencing pain, fever, metabolic imbalance, or systemic illness.
+
+- In cattle: A cow that separates from the herd and stands with a hunched back may be in pain or seriously ill.
+- In dogs: Sudden lethargy combined with other symptoms (vomiting, diarrhea, pale gums) requires prompt attention.
+- In cats: Cats are naturally good at hiding illness. Any noticeable change in activity should be taken seriously.
+- In poultry: Birds that are fluffed up, huddled, or separated from the flock may be ill.
+
+
+SKIN ABNORMALITIES
+--------------------
+
+Skin conditions in animals may be caused by parasites (mange, ticks, fleas, lice), fungal infections (ringworm), bacterial infections, allergies, or nutritional deficiencies.
+
+In cattle:
+- Lumpy Skin Disease (LSD) presents as firm, raised nodules on the skin. It is a viral disease spread by insects.
+- Mange (caused by mites) presents as hair loss, thickened skin, and intense itching.
+- Tick infestations can transmit diseases like babesiosis and anaplasmosis.
+
+In dogs:
+- Common skin conditions include mange (demodectic or sarcoptic), flea allergy dermatitis, hot spots, and fungal infections.
+- Hair loss patterns, itching intensity, and distribution help identify the cause.
+
+In cats:
+- Ringworm (dermatophytosis) is common and can be transmitted to humans (zoonotic).
+- Flea allergy dermatitis causes intense scratching and hair loss, often near the tail base.
+
+In goats:
+- Mange and lice infestations are common, especially in crowded conditions.
+- Orf (contagious ecthyma) causes scabby lesions around the mouth and is zoonotic.
+
+
+GENERAL ANIMAL OBSERVATION GUIDELINES
+----------------------------------------
+
+When observing a potentially sick animal, note:
+
+1. Behavior: Is the animal active, alert, and responsive? Or dull, depressed, and isolated?
+2. Appetite and water intake: Has eating or drinking changed?
+3. Body condition: Is the animal losing weight? Is the coat rough or dull?
+4. Breathing: Is breathing normal, rapid, labored, or noisy?
+5. Eyes and nose: Any discharge, swelling, or cloudiness?
+6. Mouth and gums: Color (pale, yellow, blue indicates problems), moisture, lesions?
+7. Stool and urine: Color, consistency, frequency, presence of blood or parasites?
+8. Skin and coat: Hair loss, lesions, swelling, parasites, wounds?
+9. Mobility: Is the animal walking normally? Any limping, stiffness, or reluctance to move?
+10. Temperature: If possible, take rectal temperature and compare to normal range for the species.
+
+Early observation and documentation of symptoms helps veterinarians make better assessments. When in doubt, seek professional veterinary evaluation promptly.
