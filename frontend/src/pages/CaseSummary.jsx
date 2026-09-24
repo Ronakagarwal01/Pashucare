@@ -115,18 +115,18 @@ export default function CaseSummary() {
             <div>
               <div className="flex items-center gap-2">
                 <h1 className="text-xl sm:text-2xl font-black text-slate-900 font-heading">
-                  PashuCare AI • क्लिनिकल ट्रायेज केस सारांश
+                  PashuCare – AI Animal Healthcare Assistant • केस सारांश
                 </h1>
               </div>
               <p className="text-xs sm:text-sm text-slate-600 font-medium">
-                Clinical Health Observation & Veterinary Triage Summary Record
+                AI Animal Healthcare Assistant • Case Summary Record
               </p>
             </div>
           </div>
 
           <div className="text-left sm:text-right space-y-1">
             <span className="inline-block text-xs font-mono font-bold text-slate-500 uppercase bg-slate-100 px-2.5 py-1 rounded-lg">
-              DOC REF #{consultation?.id}-TRIAGE
+              DOC REF #{consultation?.id}-REPORT
             </span>
             <div className="flex sm:justify-end pt-1">
               <UrgencyBadge urgency={consultation?.urgency || 'MODERATE'} />

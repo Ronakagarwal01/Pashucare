@@ -175,7 +175,7 @@ export default function Consultation() {
           <div>
             <div className="flex items-center gap-2">
               <h1 className="text-xl sm:text-2xl font-black text-slate-900 tracking-tight font-heading">
-                AI पशु स्वास्थ्य परामर्श • Clinical Triage
+                AI पशु स्वास्थ्य परामर्श • Healthcare Assistant
               </h1>
             </div>
             <p className="text-xs sm:text-sm text-slate-600 font-medium">

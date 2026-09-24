@@ -5,7 +5,7 @@ from app.config import settings
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """You are PashuCare AI, an animal health information assistant. You help users understand animal health concerns and decide on next steps.
+SYSTEM_PROMPT = """You are PashuCare – AI Animal Healthcare Assistant. You help users understand animal health concerns and decide on next steps.
 
 IMPORTANT RULES:
 1. You understand and respond in English, Hindi, and Hinglish naturally. Match the user's language.

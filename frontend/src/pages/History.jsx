@@ -169,7 +169,7 @@ export default function History() {
           className="inline-flex items-center justify-center gap-2 px-6 py-3.5 text-xs sm:text-sm font-extrabold text-white bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-600 hover:from-emerald-700 hover:to-teal-700 rounded-2xl shadow-md shadow-emerald-600/20 transition-all self-start md:self-auto shrink-0"
         >
           <Sparkles size={16} />
-          <span>+ नया परामर्श (Start Triage)</span>
+          <span>+ नया परामर्श (Start Consultation)</span>
         </Link>
       </div>
 

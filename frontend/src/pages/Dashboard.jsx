@@ -118,7 +118,7 @@ export default function Dashboard() {
             className="inline-flex items-center gap-2 px-5 py-2.5 text-xs font-extrabold text-white bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 rounded-xl shadow-md shadow-emerald-600/20 hover:shadow-lg transition-all cursor-pointer"
           >
             <Sparkles size={15} />
-            <span>नया परामर्श (New Triage)</span>
+            <span>नया परामर्श (New Consultation)</span>
           </Link>
         </div>
       </div>
@@ -170,7 +170,7 @@ export default function Dashboard() {
           className="inline-flex items-center gap-2 px-6 py-3 bg-white hover:bg-emerald-50 text-emerald-900 font-extrabold text-xs sm:text-sm rounded-xl shadow-md transition-all shrink-0 cursor-pointer"
         >
           <Sparkles size={16} className="text-emerald-700" />
-          <span>परामर्श शुरू करें / Start Triage</span>
+          <span>परामर्श शुरू करें / Start Consultation</span>
           <ArrowRight size={16} />
         </Link>
       </div>

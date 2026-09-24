@@ -397,7 +397,7 @@ export default function Animals() {
                     className="inline-flex items-center gap-1.5 px-4 py-2 text-xs font-extrabold text-emerald-800 bg-emerald-50 hover:bg-emerald-100 rounded-xl border border-emerald-200 transition-colors cursor-pointer"
                   >
                     <MessageSquarePlus size={14} />
-                    <span>परामर्श लें (Triage)</span>
+                    <span>परामर्श लें (Consultation)</span>
                   </button>
                 </div>
 

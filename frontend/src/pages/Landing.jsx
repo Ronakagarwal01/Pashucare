@@ -222,7 +222,7 @@ export default function Landing() {
           {/* Top Pill Tag */}
           <div className="inline-flex items-center gap-2.5 px-4 py-2 rounded-full bg-emerald-50 border border-emerald-300 text-xs sm:text-sm font-extrabold text-emerald-800 shadow-xs">
             <Sparkles size={16} className="text-emerald-600 animate-spin" style={{ animationDuration: '6s' }} />
-            <span>AI पशु स्वास्थ्य ट्रायेज एवं क्लिनिकल परामर्श प्रणाली</span>
+            <span>PashuCare – AI Animal Healthcare Assistant</span>
           </div>
 
           {/* Main Headline */}
@@ -246,7 +246,7 @@ export default function Landing() {
               className="w-full sm:w-auto inline-flex items-center justify-center gap-3 px-8 py-4 bg-gradient-to-r from-emerald-600 via-teal-600 to-emerald-600 hover:from-emerald-700 hover:to-teal-700 text-white font-extrabold text-base sm:text-lg rounded-2xl shadow-lg shadow-emerald-600/30 hover:shadow-xl transition-all cursor-pointer"
             >
               <Stethoscope size={22} />
-              <span>AI परामर्श शुरू करें / Start Triage</span>
+              <span>AI परामर्श शुरू करें / Start Consultation</span>
               <ArrowRight size={20} />
             </Link>
 
@@ -342,7 +342,7 @@ export default function Landing() {
                   
                   <div className="flex items-center gap-2 text-xs font-bold text-emerald-800 pb-2 border-b border-emerald-100">
                     <Sparkles size={16} />
-                    <span>PASHUCARE AI ट्रायेज विश्लेषण एवं सलाह:</span>
+                    <span>PASHUCARE – AI ANIMAL HEALTHCARE ASSISTANT:</span>
                   </div>
 
                   <div className="space-y-2.5">
@@ -374,7 +374,7 @@ export default function Landing() {
                     className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-5 py-2.5 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs rounded-xl shadow-xs transition-colors cursor-pointer"
                   >
                     <Zap size={15} />
-                    <span>लाइव परामर्श सत्र शुरू करें / Start Live Triage</span>
+                    <span>लाइव परामर्श शुरू करें / Start Consultation</span>
                   </button>
                 </div>
 
@@ -596,12 +596,12 @@ export default function Landing() {
               </span>
             </div>
             <p className="text-slate-400 text-[11px]">
-              Intelligent Animal Health Triage & Multilingual Decision Support System
+              PashuCare – AI Animal Healthcare Assistant
             </p>
           </div>
 
           <div className="flex flex-wrap justify-center items-center gap-6 text-xs font-semibold text-slate-300">
-            <Link to="/consultation" className="hover:text-emerald-400 transition-colors">परामर्श लें (Start Triage)</Link>
+            <Link to="/consultation" className="hover:text-emerald-400 transition-colors">परामर्श लें (Consultation)</Link>
             <Link to="/dashboard" className="hover:text-emerald-400 transition-colors">डैशबोर्ड (Dashboard)</Link>
             <Link to="/animals" className="hover:text-emerald-400 transition-colors">पशु सूची (Animals)</Link>
             <Link to="/history" className="hover:text-emerald-400 transition-colors">इतिहास (History)</Link>

@@ -71,7 +71,7 @@ async def lifespan(app: FastAPI):
     logger.info("Shutting down PashuCare AI backend.")
 
 
-app = FastAPI(title="PashuCare AI", version="1.0.0", lifespan=lifespan)
+app = FastAPI(title="PashuCare – AI Animal Healthcare Assistant", version="1.0.0", lifespan=lifespan)
 
 origins = [o.strip() for o in settings.cors_origins.split(",") if o.strip()]
 app.add_middleware(
@@ -94,7 +94,7 @@ app.include_router(dashboard.router)
 def health():
     return {
         "status": "ok",
-        "service": "PashuCare AI",
+        "service": "PashuCare – AI Animal Healthcare Assistant",
         "api_configured": bool(settings.openai_api_key),
         "model": settings.openai_model,
     }

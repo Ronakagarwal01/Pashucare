@@ -33,7 +33,7 @@ export default function Navbar() {
                 </span>
               </div>
               <p className="text-xs text-slate-600 font-medium hidden sm:block">
-                पशु स्वास्थ्य एवं क्लिनिकल परामर्श • Veterinary Health & Triage
+                पशु स्वास्थ्य एवं देखभाल • AI Animal Healthcare Assistant
               </p>
             </div>
           </Link>
@@ -67,7 +67,7 @@ export default function Navbar() {
           <div className="hidden sm:flex items-center gap-3">
             <div className="hidden xl:flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-50 border border-emerald-200 text-xs font-bold text-emerald-800">
               <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse" />
-              <span>24/7 AI Triage Active</span>
+              <span>24/7 AI Healthcare Active</span>
             </div>
             
             <Link
@@ -75,7 +75,7 @@ export default function Navbar() {
               className="inline-flex items-center gap-2 px-5 py-2.5 text-xs font-extrabold text-white bg-gradient-to-r from-emerald-600 to-teal-600 hover:from-emerald-700 hover:to-teal-700 rounded-xl shadow-md shadow-emerald-600/20 hover:shadow-lg transition-all cursor-pointer"
             >
               <Sparkles size={15} />
-              <span>परामर्श लें / Start Triage</span>
+              <span>परामर्श लें / Start Consultation</span>
             </Link>
           </div>
 
@@ -121,7 +121,7 @@ export default function Navbar() {
                 className="w-full flex items-center justify-center gap-2 px-4 py-3 text-sm font-bold text-white bg-gradient-to-r from-emerald-600 to-teal-600 rounded-xl shadow-sm"
               >
                 <Sparkles size={16} />
-                <span>नया परामर्श शुरू करें / Start Triage</span>
+                <span>नया परामर्श शुरू करें / Start Consultation</span>
               </Link>
             </div>
           </div>
